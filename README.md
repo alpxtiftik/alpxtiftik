@@ -4,7 +4,7 @@
 
 Focus: Offensive Security, System-level C Programming.
 
-### 🛠 Tech Stack
+### Tech Stack
 * **Languages:** C, Python, Bash, SQL.
 * **Security:** Burp Suite, Metasploit, Wireshark, Linux Internals.
 
