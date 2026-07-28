@@ -1,6 +1,6 @@
 # Ahmet Alp Tiftik
 
-> **Computer Engineering Student @ IUC-Cerrahpaşa | 42 Istanbul Participant | IUCYBER Community Leader**
+> **Computer Engineering Student @ IUC-Cerrahpaşa | 42 Istanbul Participant | IUCYBER Deputy Community Leader**
 
 Focus: Offensive Security, System-level C Programming.
 
