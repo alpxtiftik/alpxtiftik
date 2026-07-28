@@ -5,8 +5,8 @@
 Focus: Offensive Security, System-level C Programming.
 
 ### Tech Stack
-* **Languages:** C, Python, Bash, SQL.
-* **Security:** Burp Suite, Metasploit, Wireshark, Linux Internals.
+* **Languages:** C/C++, Python, Bash, SQL.
+* **Security:** IoT Testing, Burp Suite, Wireshark, Nmap, Metasploit, Kali Linux, Secure SDLC.
 
 ### TryHackMe Stats
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/alpyrox.png)](https://tryhackme.com/p/alpyrox)
