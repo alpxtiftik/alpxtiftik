@@ -47,14 +47,6 @@
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### Current Work
-
-**LAVA — Local AI Vulnerability Auditor**
-
-A local-LLM-assisted firmware vulnerability analysis project focused on reducing false positives in static firmware analysis.
-
-`EMBA` · `Ollama` · `Python` · `Firmware Analysis` · `IoT Security`
-
 ### TryHackMe
 
 <p align="left">
