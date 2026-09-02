@@ -41,8 +41,8 @@ The engineering side matters as much as the security side. İÜ-C gave me the fu
 ### GitHub Stats
 
 <div align="left">
-<img height="165" src="https://github-readme-stats-lake-nine-86.vercel.app/api?username=alpxtiftik&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-lake-nine-86.vercel.app/api/top-langs/?username=alpxtiftik&layout=compact&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats-alpxtiftik.vercel.app/api?username=alpxtiftik&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-alpxtiftik.vercel.app/api/top-langs/?username=alpxtiftik&layout=compact&hide_border=true&langs_count=8" />
 </div>
 
 ---
