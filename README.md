@@ -2,9 +2,7 @@
 
 # Ahmet Alp Tiftik
 
-**Computer Engineering Student @ İÜ-Cerrahpaşa · 42 Istanbul Cadet · İÜCYBER Vice President**
-
-Offensive Security · IoT Device Testing
+**Cyber Sec. Intern @ TÜBİTAK BİLGEM SGE | Jr. IoT Security Tester @ ISTEC | Computer Engineering @ İÜ-Cerrahpaşa | 42 Istanbul | Offensive Security & IoT Testing | C / Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpxtiftik/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@alpxtiftik)
@@ -16,7 +14,11 @@ Offensive Security · IoT Device Testing
 
 ### About
 
-Junior IoT security tester at ISTEC (IoT Security Test and Evaluation Center, İÜ-Cerrahpaşa), testing consumer devices against ETSI EN 303 645 / TS 103 701. Two years of self-directed offensive security practice, now paired with a low-level C and Python foundation from 42 Istanbul. Long-term goal: building offensive tooling, not just running it.
+4th year Computer Engineering student at İstanbul Üniversitesi-Cerrahpaşa and 42 Istanbul cadet. Two years of self-directed offensive security practice, now extended into standards-based IoT device testing — network, service, web and hardware layers — as a junior tester at ISTEC, alongside a cyber security internship at TÜBİTAK BİLGEM SGE (ongoing).
+
+Previously interned in cyber security at TAV Technologies (threat modeling, defense configuration validation, Secure SDLC in CI/CD). Also lead technical workshops and training roadmaps as Vice President of İÜCYBER, my university's cyber security club.
+
+The engineering side matters as much as the security side. İÜ-C gave me the fundamentals — operating systems, computer architecture, networks, algorithms — and 42 turned them into practice: C systems programming, manual memory management, Linux hardening. Where I'd like to end up is building the software itself: offensive tooling and security-focused systems software.
 
 ### Tech Stack
 
@@ -24,8 +26,13 @@ Junior IoT security tester at ISTEC (IoT Security Test and Evaluation Center, İ
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,mysql" />
 </div>
 
-**Security tooling:** Burp Suite · Nmap · Wireshark · Metasploit · Kali Linux
-**Focus areas:** IoT / firmware testing · Web application security · Secure SDLC
+**Security Tools**
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-3B7EA1?style=flat&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 ### TryHackMe
 
