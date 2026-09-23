@@ -2,7 +2,7 @@
 
 # Ahmet Alp Tiftik
 
-**Cyber Sec. Intern @ TÜBİTAK BİLGEM SGE | Jr. IoT Security Tester @ ISTEC | Computer Engineering @ İÜ-Cerrahpaşa | 42 Istanbul | Offensive Security & IoT Testing | C / Python**
+**Jr. IoT Security Tester @ ISTEC | Computer Engineering @ İÜ-Cerrahpaşa | 42 Istanbul | Offensive Security & IoT Testing | C / Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpxtiftik/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@alpxtiftik)
@@ -14,7 +14,7 @@
 
 ### About
 
-4th year Computer Engineering student at İstanbul Üniversitesi-Cerrahpaşa and 42 Istanbul cadet. Two years of self-directed offensive security practice, now extended into standards-based IoT device testing — network, service, web and hardware layers — as a junior tester at ISTEC, alongside a cyber security internship at TÜBİTAK BİLGEM SGE (ongoing).
+4th year Computer Engineering student at İstanbul Üniversitesi-Cerrahpaşa and 42 Istanbul cadet. Two years of self-directed offensive security practice, now extended into standards-based IoT device testing — network, service, web and hardware layers — as a junior tester at ISTEC, alongside a cyber security internship at TÜBİTAK BİLGEM SGE and TAV Technology.
 
 Previously interned in cyber security at TAV Technologies (threat modeling, defense configuration validation, Secure SDLC in CI/CD). Also lead technical workshops and training roadmaps as Vice President of İÜCYBER, my university's cyber security club.
 
