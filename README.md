@@ -14,11 +14,7 @@
 
 ### About
 
-4th year Computer Engineering student at İstanbul Üniversitesi-Cerrahpaşa and 42 Istanbul cadet. Two years of self-directed offensive security practice, now extended into standards-based IoT device testing — network, service, web and hardware layers — as a junior tester at ISTEC, alongside a cyber security internship at TÜBİTAK BİLGEM SGE and TAV Technology.
-
-Previously interned in cyber security at TAV Technologies (threat modeling, defense configuration validation, Secure SDLC in CI/CD). Also lead technical workshops and training roadmaps as Vice President of İÜCYBER, my university's cyber security club.
-
-The engineering side matters as much as the security side. İÜ-C gave me the fundamentals — operating systems, computer architecture, networks, algorithms — and 42 turned them into practice: C systems programming, manual memory management, Linux hardening. Where I'd like to end up is building the software itself: offensive tooling and security-focused systems software.
+4th year Computer Engineering at İstanbul Üniversitesi - Cerrahpaşa and 42 Istanbul cadet, currently testing consumer IoT devices part-time at ISTEC, an IoT security test and evaluation company whose lab is based within İstanbul Üniversitesi-Cerrahpaşa. Two years of self-directed offensive security practice, now extended into standards-based device testing across the network, service, web and hardware layers, on a low-level C and Python foundation from 42.
 
 ### Tech Stack
 
