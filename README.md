@@ -14,7 +14,7 @@
 
 ### About
 
-4th year Computer Engineering at İstanbul Üniversitesi - Cerrahpaşa and 42 Istanbul cadet, currently testing consumer IoT devices part-time at ISTEC, an IoT security test and evaluation company whose lab is based within İstanbul Üniversitesi-Cerrahpaşa. Two years of self-directed offensive security practice, now extended into standards-based device testing across the network, service, web and hardware layers, on a low-level C and Python foundation from 42.
+4th year Computer Engineering student at İstanbul Üniversitesi-Cerrahpaşa and 42 Istanbul cadet. I work part-time as a cyber security engineer at ISTEC Cyber Security, at its lab within my university, where I run standards-based security assessments of consumer IoT devices end to end: researching each device’s attack surface, testing from the network and web layers down to the hardware, writing Python and Bash scripts to automate repetitive steps, and turning findings into reports that manufacturers act on. This builds on two years of self-directed offensive security practice and a low-level C and Python foundation from 42.
 
 ### Tech Stack
 
