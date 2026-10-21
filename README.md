@@ -2,7 +2,7 @@
 
 # Ahmet Alp Tiftik
 
-**Jr. IoT Security Tester @ ISTEC | Computer Engineering @ İÜ-Cerrahpaşa | 42 Istanbul | Offensive Security & IoT Testing | C / Python**
+**Jr. Cyber Security Engineer @ ISTEC | Computer Engineering @ İÜ-Cerrahpaşa | 42 Istanbul | Offensive Security & IoT Testing | C / Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpxtiftik/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@alpxtiftik)
