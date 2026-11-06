@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,mysql" />
 </div>
 
-**Security Tools**
+### Security Tools
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
